@@ -1,3 +1,9 @@
 theme: minima
 title: mostly confused
 author: Jana Abdelmaguid
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
+
+mathjax: true
