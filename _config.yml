@@ -1,7 +1,7 @@
 theme: minima
 title: mostly confused
 author: Jana Abdelmaguid
-markdown: kramdown
+# markdown: kramdown
 # kramdown:
 #   input: GFM
 #   math_engine: mathjax
