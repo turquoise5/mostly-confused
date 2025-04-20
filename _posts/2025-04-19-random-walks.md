@@ -1,7 +1,6 @@
 ---
 title: "random walks"
 date: 2025-04-19
-mathjax: true
 ---
 
 Here is an "elementary example of a random walk", according to the wikipedia page on random walks. 
